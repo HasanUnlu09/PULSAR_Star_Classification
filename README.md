@@ -10,7 +10,7 @@ Each Data Science LifeCycle steps in Jupyter Notebook files can be runned one by
 
 ## Project Outcomes
 
-All of the coonfusion matrix result for each model can be seen from the below image
+All of the confusion matrix result for each model can be seen from the below image
 ![1  Confusion_Matrices](https://github.com/HasanUnlu09/PULSAR_Star_Classification/assets/133260754/aa19df9e-4634-4b80-a96c-455e70ff0e16)
 
 In the below image it can be seen that how well the model performed by considering F1-Score
