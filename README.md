@@ -25,4 +25,4 @@ AUC(Area Under Curve) Scores is represented in the below bar plot to compare mod
 The Dataset Citation  
 Lyon,Robert. (2017). HTRU2. UCI Machine Learning Repository. https://doi.org/10.24432/C5DK6R.
 
-!!! If you would like to reach me out about this project you can yuse following e-mail address; hasan.09.unlu@gmail.com
+!!! If you would like to reach me out about this project you can use following e-mail address; hasan.09.unlu@gmail.com
